@@ -1,6 +1,6 @@
 # Malware Icons
 
-Icon files for malware that are compatible with the python module [pyinstaller](https://pyinstaller.org/).
+Icon files for malware that are compatible with the Python module [pyinstaller](https://pyinstaller.org/).
 
 > :warning: **Project in development:** currently working on:
 >
